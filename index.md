@@ -1,4 +1,4 @@
-# Hello World!! 2
+# Hello World!! 3
 
 path: {{ page.path }}
 
@@ -9,6 +9,3 @@ path: {{ page.path }}
     </li>
   {% endfor %}
 </ul>
-
-- Links
-[POST 1]({% link /_posts/2022-04-25-HelloPages %})
